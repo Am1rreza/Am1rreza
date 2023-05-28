@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Ecommerce App<br><br>🌱 I’m currently learning Next.js<br><br>👨‍💻 All of my projects are available at https://github.com/Am1rreza<br><br>📝 I regularly write articles on http://linkedin.com/in/amirreza-mousavifard<br><br>💬 Ask me about JavaScript and React.js<br><br>📫 How to reach me amirrezamousavi9130@gmail.com<br><br>📄 Know about my experiences https://flowcv.com/resume/c2umbsqq4s
+🔭 I’m currently working on my portfolio website<br><br>🌱 I’m currently learning TypeScript<br><br>👨‍💻 All of my projects are available at https://github.com/Am1rreza<br><br>📝 I regularly write articles on http://linkedin.com/in/amirreza-mousavifard<br><br>💬 Ask me about JavaScript and React.js<br><br>📫 How to reach me amirrezamousavi9130@gmail.com<br><br>📄 Know about my experiences https://flowcv.com/resume/c2umbsqq4s
 
 
 ## 🌐 Socials:
