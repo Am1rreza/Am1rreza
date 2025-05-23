@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amirreza Mousavifard</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on machine learning and deep learning projects<br><br>👨‍💻 All of my projects are available at https://github.com/Am1rreza<br><br>📝 I regularly write articles on http://linkedin.com/in/amirreza-mousavifard<br><br>📫 How to reach me amirrezamousavi9130@gmail.com<br><br>📄 Know about my experiences https://cvbuilder.me/Resume/fa/bb2fd7e1-384c-4bb6-a8c8-a04b00cfae7b?template=Template35
+🔭 I’m currently working on machine learning and deep learning projects<br><br>👨‍💻 All of my projects are available at https://github.com/Am1rreza<br><br>📝 I regularly write articles on http://linkedin.com/in/amirreza-mousavifard<br><br>📫 How to reach me amirrezamousavi9130@gmail.com<br><br>
 
 
 ## 🌐 Socials:
